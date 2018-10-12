@@ -1,0 +1,7 @@
+C:\Users\rtoles\Desktop\Math\Math_Toles\Math_Toles\bin\Debug\Math_Toles.exe.config
+C:\Users\rtoles\Desktop\Math\Math_Toles\Math_Toles\bin\Debug\Math_Toles.exe
+C:\Users\rtoles\Desktop\Math\Math_Toles\Math_Toles\bin\Debug\Math_Toles.pdb
+C:\Users\rtoles\Desktop\Math\Math_Toles\Math_Toles\obj\Debug\Math_Toles.csprojAssemblyReference.cache
+C:\Users\rtoles\Desktop\Math\Math_Toles\Math_Toles\obj\Debug\Math_Toles.csproj.CoreCompileInputs.cache
+C:\Users\rtoles\Desktop\Math\Math_Toles\Math_Toles\obj\Debug\Math_Toles.exe
+C:\Users\rtoles\Desktop\Math\Math_Toles\Math_Toles\obj\Debug\Math_Toles.pdb
