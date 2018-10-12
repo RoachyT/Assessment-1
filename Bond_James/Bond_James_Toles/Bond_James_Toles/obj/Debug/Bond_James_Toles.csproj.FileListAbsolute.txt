@@ -1,0 +1,7 @@
+C:\Users\rtoles\Desktop\Bond_James\Bond_James_Toles\Bond_James_Toles\bin\Debug\Bond_James_Toles.exe.config
+C:\Users\rtoles\Desktop\Bond_James\Bond_James_Toles\Bond_James_Toles\bin\Debug\Bond_James_Toles.exe
+C:\Users\rtoles\Desktop\Bond_James\Bond_James_Toles\Bond_James_Toles\bin\Debug\Bond_James_Toles.pdb
+C:\Users\rtoles\Desktop\Bond_James\Bond_James_Toles\Bond_James_Toles\obj\Debug\Bond_James_Toles.csprojAssemblyReference.cache
+C:\Users\rtoles\Desktop\Bond_James\Bond_James_Toles\Bond_James_Toles\obj\Debug\Bond_James_Toles.csproj.CoreCompileInputs.cache
+C:\Users\rtoles\Desktop\Bond_James\Bond_James_Toles\Bond_James_Toles\obj\Debug\Bond_James_Toles.exe
+C:\Users\rtoles\Desktop\Bond_James\Bond_James_Toles\Bond_James_Toles\obj\Debug\Bond_James_Toles.pdb
